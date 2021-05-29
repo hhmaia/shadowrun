@@ -16,4 +16,6 @@ if  atk > def
 
 *=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=**=*=*=*=*=*=*=*=*=*
 
-# testando a edição colaborativa
+# >>> weapon specifics >>>
+- Para trocar o modo da arma gasta uma ação simples
+# <<< weapon specifics <<<
