@@ -1,1 +1,17 @@
 # adicionar aqui referências rapidas para as regras
+
+Combate Sequencia *=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+atk agi + skill wpn
+def reac + int
+
+if  atk > def
+	hit
+	net hits = atk - def
+	
+	if dv + net hits  vs  armor - AP >= physical
+	else stun
+
+	def body + armor
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=**=*=*=*=*=*=*=*=*=*
