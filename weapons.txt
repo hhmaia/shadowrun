@@ -1,1 +1,5 @@
 426 -> tabela Firearms
+    - Recoil, modos de tiro, dano, acc, etc
+
+
+Burst fire -> 3 balas
