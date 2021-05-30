@@ -15,6 +15,14 @@ if  atk > def
 	def body + armor
 
 *=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=**=*=*=*=*=*=*=*=*=*
+#recoils
+recoil starts with 1free point anytime start firing
+(1free point+Strength/3(round up)) = compensation
+
+(compensation + Weapon recoil comp) - bullets to fire = recoil
+	if recoil < 0
+		atk dice pool - recoil
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=**=*=*=*=*=*=*=*=*=*
 
 # >>> weapon specifics >>>
 - Para trocar o modo da arma gasta uma ação simples
