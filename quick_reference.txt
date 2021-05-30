@@ -22,6 +22,11 @@ recoil starts with 1free point anytime start firing
 (compensation + Weapon recoil comp) - bullets to fire = recoil
 	if recoil < 0
 		atk dice pool - recoil
+
+**Recoil penalties are cumulative over every Action Phase
+and Combat Turn unless the character takes, or is forced
+into, an action other than shooting for an entire Action
+Phase
 *=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=**=*=*=*=*=*=*=*=*=*
 
 # >>> weapon specifics >>>
