@@ -1,5 +1,6 @@
 426 -> tabela Firearms
     - Recoil, modos de tiro, dano, acc, etc
 185 -> tabela de armas ranged
+180 -> firng mode table
 
 Burst fire -> 3 balas
